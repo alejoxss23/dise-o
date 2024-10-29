@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>La Tecnologia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Este es una breve explicacion de la tecnologia</h1>
+    <p>Esto es gran un gran resumen de tema</p>
+    <h2>Y una ilustracion relevante del tema</h2>
+    <iframe src="https://assemblerinstitute.com/blog/que-es-la-tecnologia-para-que-sirve/"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 270px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="http://www.unl.edu.ar/ingreso/cursos/cac/21ot/#:~:text=%E2%80%9CTecnolog%C3%ADa%E2%80%9D%20viene%20del%20griego%20%CF%84%CE%AD%CF%87%CE%BD%CE%B7,o%20bien%20darle%20otra%20funci%C3%B3n." target="_blank" rel="noopener">meteoblue</a></div>
+             <ul>
+                   <li>Este es un elemento importante para la humanidad</li>
+                   <li>Y este actualmente este elemento es usado para la mayoria de cosas</li>
+             </ul>
+     <img src="https://edu21.cl/blog/innovacion-educativa/importancia-de-la-tecnologia-en-la-educacion/" alt="Image 1">
+</body>
+</html>
